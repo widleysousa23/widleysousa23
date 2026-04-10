@@ -5,6 +5,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), com interesse em 
 
 Tenho experiência com hardware de computadores, área em que atuo profissionalmente, o que me proporciona uma visão mais ampla da tecnologia.
 
+Também possuo noções de Linux (Debian em ambiente de linha de comando), utilizado em máquina virtual para estudos e práticas acadêmicas, incluindo configuração básica de servidor Apache para hospedagem de páginas web.
+
 Estou em constante evolução, buscando aprender novas tecnologias e aprimorar minhas habilidades.
 
 ## 🚀 Tecnologias e Ferramentas
@@ -23,6 +25,7 @@ Estou em constante evolução, buscando aprender novas tecnologias e aprimorar m
 
 **Outros:**
 - C (básico)
+- Linux (noções, Debian em terminal)
 
 ## 📚 Atualmente estudando
 - Estruturas de dados
